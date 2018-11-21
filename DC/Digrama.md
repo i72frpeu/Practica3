@@ -1,1 +1,1 @@
-![Digrama de casos](Escritorio/IS/Practica3/Diagrama_casos_de_uso.pdf.png)
+![Digrama de casos](https://github.com/i72frpeu/Practica3/blob/master/Borrar%20alumno.jpg)
