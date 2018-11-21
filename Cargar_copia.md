@@ -1,0 +1,1 @@
+![Cargar copia](https://github.com/i72frpeu/Fotos/blob/master/Cargar%20copia.jpg)

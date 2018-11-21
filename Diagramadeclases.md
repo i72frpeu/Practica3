@@ -1,0 +1,1 @@
+![Digrama de imagen](https://github.com/i72frpeu/Fotos/blob/master/Diagrama_casos_de_uso.pdf.png)

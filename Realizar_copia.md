@@ -1,0 +1,1 @@
+![Hacer copia](https://github.com/i72frpeu/Fotos/blob/master/Realizar%20copia.jpg)

@@ -1,1 +1,0 @@
-![Digrama de imagen](Class Diagram1.jpg)

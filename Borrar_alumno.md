@@ -1,0 +1,1 @@
+![Borrar alumno](https://github.com/i72frpeu/Fotos/blob/master/Borrar%20alumno.jpg)

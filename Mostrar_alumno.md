@@ -1,0 +1,1 @@
+![Mostrar alumno](https://github.com/i72frpeu/Fotos/blob/master/Mostar%20alumno.jpg)

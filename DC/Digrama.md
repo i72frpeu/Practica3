@@ -1,1 +1,0 @@
-![Digrama de casos](https://github.com/i72frpeu/Practica3/blob/master/Borrar%20alumno.jpg)
