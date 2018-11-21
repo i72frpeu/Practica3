@@ -1,1 +1,1 @@
-![Digrama de casos](Diagrama_casos_de_uso.pdf.png)
+![Digrama de casos](/Escritorio/IS/Practica3/Diagrama_casos_de_uso.pdf.png)
