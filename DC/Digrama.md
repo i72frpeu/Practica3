@@ -1,0 +1,1 @@
+![Digrama de casos](Diagrama_casos_de_uso.pdf.png)
